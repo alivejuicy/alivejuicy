@@ -8,7 +8,7 @@
 #
 ### 🛠 Tech Tree & Channel 🛠
 <a href="https://stackshare.io/alivejuicy/donghyun-kwak"><img src="https://img.shields.io/badge/Tech Stack-black?style=for-the-badge&logo=StackShare&logoColor=#0690FA"/><a/><br/>
-<a href="https://velog.io/@alivejuicy"><img src="https://img.shields.io/badge/Tech Blog-black?style=for-the-badge&logo=Velog&logoColor=#20C997"/></a>
+<a href=""><img src="https://img.shields.io/badge/Tech Blog-black?style=for-the-badge&logo=Velog&logoColor=#20C997"/></a>
 
 
 <!--
